@@ -91,7 +91,7 @@ Any correction whose `peak_date` falls inside a bear market's peak-to-trough dat
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/market-cycles.git
+git clone https://github.com/fbaru-dev/market-cycles.git
 cd market-cycles
 pip install -r requirements.txt
 ```
