@@ -2,6 +2,8 @@
 ## [Fabio Baruffa](https://fabiobaruffa.com) — The Quantitative Edge
 A framework for identifying, classifying, and visualising bear markets, corrections, and bull markets from historical price data.
 
+[![Blog](https://img.shields.io/badge/Blog-The%20Quantitative%20Edge-185FA5)](https://fabiobaruffa.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ---
 
 ## Motivation
