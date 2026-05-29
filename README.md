@@ -1,5 +1,5 @@
 # Market Cycles Analysis Framework
-
+## — The Quantitative Edge https://fabiobaruffa.com
 A framework for identifying, classifying, and visualising bear markets, corrections, and bull markets from historical price data.
 
 ---
