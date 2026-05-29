@@ -1,5 +1,5 @@
 # Market Cycles Analysis Framework
-## Fabio Baruffa — The Quantitative Edge https://fabiobaruffa.com
+## [Fabio Baruffa](https://fabiobaruffa.com) — The Quantitative Edge
 A framework for identifying, classifying, and visualising bear markets, corrections, and bull markets from historical price data.
 
 ---
